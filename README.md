@@ -5,13 +5,14 @@ Data Analysis with Python
 - Visualizations with Plotly  
 
 ## How to run
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HazzemAhmed/sales-data-analysis-oop/blob/main/Copy_of_Sales_Data_Analysis_Project.ipynb)
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hazzemhaggag/sales-data-analysis-oop/blob/main/Copy_of_Sales_Data_Analysis_Project.ipynb)
 2. Upload your `all_data.csv` file when prompted
 
 ## Tools & Libraries
 - pandas, numpy
 - plotly.express
 - OOP structure (Loader, Cleaner, Analyzer classes)
+
 
 
 
