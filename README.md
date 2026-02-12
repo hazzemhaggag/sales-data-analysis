@@ -1,6 +1,5 @@
 # Sales Data Analysis Project
-
-تحليل بيانات المبيعات باستخدام Python + OOP  
+Data Analysis with Python 
 - Data Cleaning  
 - EDA  
 - Visualizations with Plotly  
@@ -13,3 +12,4 @@
 - pandas, numpy
 - plotly.express
 - OOP structure (Loader, Cleaner, Analyzer classes)
+
