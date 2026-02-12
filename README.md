@@ -2,7 +2,7 @@
 
 
 
-تحليل بيانات المبيعات باستخدام Python + OOP  
+ 
 
 \- Data Cleaning  
 
@@ -27,4 +27,5 @@
 \- plotly.express
 
 \- OOP structure (Loader, Cleaner, Analyzer classes)
+
 
